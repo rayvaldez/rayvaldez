@@ -1,4 +1,14 @@
-### Hi there 👋
+### 👋 Hi, I'm Ray Valdez
+
+I'm a software engineer bootcamp graduate. I have a keen interest in designing and building things to make life that little bit more easier/enjoyable. 
+
+Outside of work, I enjoy...
+
+- 🚴‍ Cycling/Customising Bikes
+- 📸 Photography/ Capturing special occasions
+- 🏍️ Going for long Motorcycle Rides
+- 🧰 Fixing things/ Cars & Motorbikes
+- ⚽ Playing and watching 
 
 <!--
 **rayvaldez/rayvaldez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
