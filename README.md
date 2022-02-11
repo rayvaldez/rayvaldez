@@ -5,10 +5,10 @@ I'm a software engineer bootcamp graduate. I have a keen interest in designing a
 Outside of work, I enjoy...
 
 - 🚴‍ Cycling/Customising Bikes
-- 📸 Photography/ Capturing special occasions
-- 🏍️ Going for long Motorcycle Rides
+- 📸 Photography
+- 🏍️ Motorcycle Trips
 - 🧰 Fixing things/ Cars & Motorbikes
-- ⚽ Playing and watching 
+- ⚽ Playing and watching football
 
 <!--
 **rayvaldez/rayvaldez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
